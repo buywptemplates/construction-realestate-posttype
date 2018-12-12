@@ -1,0 +1,195 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Construction Realestate Posttype\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: index.php:23 
+#: index.php:24
+msgid 'Properties'
+msgstr ""
+
+#: index.php:45 
+#: index.php:46 
+msgid 'Agents'
+msgstr ""
+
+#: index.php:64 
+#: index.php:65 
+msgid 'testimonials'
+msgstr ""
+
+#: index.php:126
+msgid 'Price'
+msgstr ""
+
+#: index.php:134
+msgid 'Compare Price'
+msgstr ""
+
+#: index.php:142 
+msgid 'Property ID'
+msgstr ""
+
+#: index.php:150 
+msgid 'Property Address'
+msgstr ""
+
+#: index.php:158 
+msgid 'Location'
+msgstr ""
+
+#: index.php:166 
+msgid 'Property Type'
+msgstr ""
+
+#: index.php:176 
+msgid 'Property Status'
+msgstr ""
+
+#: index.php:181 
+msgid 'Sale'
+msgstr ""
+
+#: index.php:182 
+msgid 'Rent'
+msgstr ""
+
+#: index.php:188 
+msgid 'Property Size'
+msgstr ""
+
+#: index.php:196 
+msgid 'Bathrooms'
+msgstr ""
+
+#: index.php:204 
+msgid 'Bedrooms'
+msgstr ""
+
+#: index.php:212 
+msgid 'Garage'
+msgstr ""
+
+#: index.php:220 
+msgid 'Year Built'
+msgstr ""
+
+#: index.php:228 
+msgid 'Child Rooms'
+msgstr ""
+
+#: index.php:236 
+msgid 'Furnished'
+msgstr ""
+
+#: index.php:244 
+msgid 'No of Floors'
+msgstr ""
+
+#: index.php:252 
+msgid 'Swimming Pool'
+msgstr ""
+
+#: index.php:260 
+msgid 'Longitude'
+msgstr ""
+
+#: index.php:268 
+msgid 'Latitude'
+msgstr ""
+
+#: index.php:432 
+#: index.php:502 
+#: index.php:791
+msgid 'Post Not Found'
+msgstr ""
+
+#: index.php:512 
+msgid 'Enter Designation'
+msgstr ""
+
+#: index.php:528 
+msgid 'Email'
+msgstr ""
+
+#: index.php:536 
+msgid 'Phone Number'
+msgstr ""
+
+#: index.php:544 
+msgid 'Facebook Url'
+msgstr ""
+
+#: index.php:552 
+msgid 'Linkedin URL'
+msgstr ""
+
+#: index.php:560 
+msgid 'Twitter Url'
+msgstr ""
+
+#: index.php:568 
+msgid 'GooglePlus URL'
+msgstr ""
+
+#: index.php:609 
+msgid 'Settings'
+msgstr ""
+
+#: index.php:691 
+msgid 'Not Found'
+msgstr ""
+
+#: index.php:82 
+#: index.php:83
+#: index.php:92
+msgid 'Properties Packages'
+msgstr ""
+
+#: index.php:84 
+msgid 'Search Ccats'
+msgstr ""
+
+#: index.php:85 
+msgid 'All Properties Packages'
+msgstr ""
+
+#: index.php:86 
+msgid 'Parent Properties Packages'
+msgstr ""
+
+#: index.php:87 
+msgid 'Parent Properties Packages:'
+msgstr ""
+
+#: index.php:88 
+msgid 'Edit Properties Packages'
+msgstr ""
+
+#: index.php:89 
+msgid 'Update Properties Packages'
+msgstr ""
+
+#: index.php:90 
+msgid 'Add New Properties Packages'
+msgstr ""
+
+#: index.php:91 
+msgid 'New Properties Packages Name'
+msgstr ""
+
+#: index.php:110 
+msgid 'Property Meta'
+msgstr ""
